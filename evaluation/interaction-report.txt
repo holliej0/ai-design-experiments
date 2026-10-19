@@ -1,0 +1,10 @@
+Run against the Relay Ops prototype, light mode, Chromium.
+
+pass  Enter on a row opens the detail panel
+pass  Focus moves into the panel
+pass  Empty resolve shows a next-step error  (Choose why this is resolved.)
+pass  Escape closes the panel
+pass  Focus returns to the row
+pass  ArrowRight moves to the next tab
+pass  No horizontal scroll at 390px
+pass  No runtime errors
